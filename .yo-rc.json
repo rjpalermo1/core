@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "Core",
+    "repo": "rjpalermo1/core",
+    "splitSpec": true,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
